@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5D1SBTEQ0cvFh+FCOpdx37JIKseyaIi4y9qzRvLOCX56b3ylMrCbB21AGRyte78PXp54K8veK/4wEXd3OvrFfA==",
+  "dgSpecHash": "mely5bU7QmTbNQWzC7UUS8JiDpse7uP4rR07D2TxfCE92Rp3jwav4d08Jm66bUWFrD4xyruMrECYHIWQd4VadQ==",
   "success": true,
-  "projectFilePath": "/Users/ismail/Projects/CSC360/final-project-ismailp145/backend/SocalAPI/SocalAPI.csproj",
+  "projectFilePath": "/Users/ismail/Projects/final-project-CSC360/backend/SocalAPI/SocalAPI.csproj",
   "expectedPackageFiles": [
     "/Users/ismail/.nuget/packages/bcrypt.net-next/4.0.3/bcrypt.net-next.4.0.3.nupkg.sha512",
     "/Users/ismail/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",

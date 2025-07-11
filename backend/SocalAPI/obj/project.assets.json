@@ -3694,11 +3694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ismail/Projects/CSC360/final-project-ismailp145/backend/SocalAPI/SocalAPI.csproj",
+      "projectUniqueName": "/Users/ismail/Projects/final-project-CSC360/backend/SocalAPI/SocalAPI.csproj",
       "projectName": "SocalAPI",
-      "projectPath": "/Users/ismail/Projects/CSC360/final-project-ismailp145/backend/SocalAPI/SocalAPI.csproj",
+      "projectPath": "/Users/ismail/Projects/final-project-CSC360/backend/SocalAPI/SocalAPI.csproj",
       "packagesPath": "/Users/ismail/.nuget/packages/",
-      "outputPath": "/Users/ismail/Projects/CSC360/final-project-ismailp145/backend/SocalAPI/obj/",
+      "outputPath": "/Users/ismail/Projects/final-project-CSC360/backend/SocalAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ismail/.nuget/NuGet/NuGet.Config"

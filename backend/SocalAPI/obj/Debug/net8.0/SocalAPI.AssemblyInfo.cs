@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SocalAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22d4ce6e6cc0f5186b26553fda7fe97cf7b3b633")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a10e17a30ac405f5b287217e2e9e6c3f4f5fd0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SocalAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SocalAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
