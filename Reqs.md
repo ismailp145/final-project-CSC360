@@ -47,7 +47,7 @@ Choose a project that fulfills the following requirements:
 - Posts DB [✅]
 
 ### After Finishing
-- Demo [❌]
+- Demo [✅]
 - Document / Powerpoint (In the github readme)[✅]
 
 ### TODO
