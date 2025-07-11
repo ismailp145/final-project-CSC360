@@ -2,7 +2,7 @@
 builder = "nixpacks"
 
 [deploy]
-startCommand = "dotnet SocalAPI.dll"
+startCommand = "dotnet out/SocalAPI.dll"
 healthcheckPath = "/api"
 healthcheckTimeout = 300
 restartPolicyType = "on_failure" 

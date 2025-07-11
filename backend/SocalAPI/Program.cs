@@ -423,4 +423,6 @@ app.MapGet("/api", (HttpContext context) =>
     return Results.Ok("Hello World");
 });
 
-app.Run();
+// Get port from environment variable (Railway sets this)
+var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
+app.Run($"http://0.0.0.0:{port}");

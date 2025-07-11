@@ -1,5 +1,5 @@
 [phases.setup]
-nixPkgs = ["dotnet-sdk", "dotnet-runtime"]
+nixPkgs = ["dotnet-sdk_8", "dotnet-runtime_8"]
 
 [phases.install]
 cmds = ["dotnet restore"]
