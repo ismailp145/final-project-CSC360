@@ -2,7 +2,7 @@ import { Button, Form, Card } from "react-bootstrap";
 import React, { useState } from "react";
 import type { Post } from "../types/Post";
 import { createPost } from "../services/postService";
-import {getUserProfile} from "../services/userService";
+// import {getUserProfile} from "../services/userService";
 
 const NewPost = ({ posts, setPosts }: { posts: Post[], setPosts: (posts: Post[]) => void }) => {
   const [content, setContent] = useState('');
@@ -13,7 +13,7 @@ const NewPost = ({ posts, setPosts }: { posts: Post[], setPosts: (posts: Post[])
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     setIsSubmitting(true);
-    const userProfile = await getUserProfile();
+    // const userProfile = await getUserProfile();
     try {
       // Create form data for file upload
       const formData = new FormData();
